@@ -1,0 +1,12 @@
+You should to add the library "Sound" in your Processing.
+
+How?
+   1. Go to "Sketch" in the tool bar.
+   2. Click in "Import library..." and next in "Add library..."
+   3. Search "Sound" and select the library with autor "The 
+      Processing Foundation".
+   4. Click in "Install" button and wait.
+   5. Ready, you can play now!
+
+Enjoy it :D
+- Niriot
